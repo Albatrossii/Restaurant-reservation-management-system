@@ -1,0 +1,8 @@
+﻿  在线餐馆预订管理系统.cpp
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\manager.h(25,31): warning C4114: 多次使用同一类型限定符
+  正在生成代码
+  3 of 859 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  在线餐馆预订管理系统.vcxproj -> E:\VSProject\在线餐馆预订管理系统\Release\在线餐馆预订管理系统.exe

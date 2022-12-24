@@ -1,0 +1,22 @@
+﻿  Manager.cpp
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\manager.h(25,31): warning C4114: 多次使用同一类型限定符
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Edge.h(5,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(26,39): warning C4114: 多次使用同一类型限定符
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(350,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(359,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(359,30): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(369,9): warning C4018: “>=”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(373,59): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“const unsigned int”的值不能等于给定的常量
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(374,12): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(374,34): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(385,9): warning C4018: “>=”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Manager.cpp(406,14): warning C4018: “<”: 有符号/无符号不匹配
+  Shop.cpp
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Shop.cpp(102,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Shop.cpp(122,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Shop.cpp(142,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\Shop.cpp(155,12): warning C4018: “<=”: 有符号/无符号不匹配
+  在线餐馆预订管理系统.cpp
+E:\VSProject\在线餐馆预订管理系统\在线餐馆预订管理系统\manager.h(25,31): warning C4114: 多次使用同一类型限定符
+  正在生成代码...
+  在线餐馆预订管理系统.vcxproj -> E:\VSProject\在线餐馆预订管理系统\Debug\在线餐馆预订管理系统.exe

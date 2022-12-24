@@ -1,0 +1,9 @@
+环境配置信息
+使用编译器：Microsoft Visual Studio Community 2019
+编译器IDEA版本：16.11.22
+Windows SDK版本：10.0
+活动平台：Win32
+平台工具集：Visual Studio 2019(v142)
+运行环境：Windows 11
+C++语言标准：ISO C++14
+C语言标准：旧MSVC
